@@ -1,0 +1,5 @@
+-lib hxJson2
+-main Test.hx
+--remap neko:js
+-cp dir
+-js js-haxe.js

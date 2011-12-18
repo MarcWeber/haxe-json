@@ -1,0 +1,4 @@
+-lib hxJson2
+-main Test
+--remap neko:cpp
+-cpp cpp
